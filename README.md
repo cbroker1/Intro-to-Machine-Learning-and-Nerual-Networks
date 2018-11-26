@@ -4,7 +4,7 @@
 
 
 
-Week 1 - Introduction to Machine Learning and Neural Networks
+Week 1 - Introduction to Machine Learning and Neural Networks (no corresponding files)
 
 Recieved an overview of the architecture of the course as well as an introduction to machine learning and neural networks.
 
