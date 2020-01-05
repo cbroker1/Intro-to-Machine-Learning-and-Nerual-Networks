@@ -27,7 +27,7 @@ Introduced to train/test/validate in the development of robust models.
 
 Introduced to concept of classification. The Logistic Function emphasized.
 
-Week 7 - Garbage In, Garbage Out (Data Munging): Extracting Relevant Features from the Data
+[Week 7 - Garbage In, Garbage Out (Data Munging): Extracting Relevant Features from the Data](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_08.ipynb)
 
 Exposed to techniques to help clean data. Allowed data to properly into an algorithm to generate the most effective model.
 
