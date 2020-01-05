@@ -19,7 +19,7 @@ In this module I explored the role of Calculus in Machine Learning, namely in op
 
 I focused on Linear Regression in a more rigorous and practical method. I explored different ways to use Linear Regression along with a real dataset. I looked at the cost function and how the choice of function can improve or hurt results. 
 
-Week 5 - Validating Models
+[Week 5 - Validating Models](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_05.ipynb)
 
 Introduced to train/test/validate in the development of robust models.
 
