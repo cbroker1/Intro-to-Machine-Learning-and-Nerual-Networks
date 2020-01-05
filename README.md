@@ -45,6 +45,6 @@ In this module I covered working with Text Data and conversions such as TF-IDF a
 
 In this module I made the jump to neural networks. Introduced to the diagrams and graphs that represent these networks and some of the math behind them. Shown how adding additional layers or additional neurons can improve performance over a Support Vector Machine.
 
-Week 12 - Neural Networks (Deep Learning) 
+[Week 12 - Neural Networks (Deep Learning)](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_12.ipynb)
 
 Introduced to different Neural Networks. I explored when to use each architecture and potential models for specific situations.
