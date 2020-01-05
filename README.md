@@ -15,7 +15,7 @@ Became comfortable with using Python, Jupyter Notebooks, Pandas, and Numpy.
 
 In this module I explored the role of Calculus in Machine Learning, namely in optimization to find the best fit model. Additionally, I looked at how all equations are expanded from single variable inputs to 'multivariable' through Linear Algebra. I explored how Linear Regression uses Calculus and finds the best fit model through optimization in both one-dimension along with multiple dimensions.
 
-Week 4 - Practical Linear Regression and Cost Functions
+[Week 4 - Practical Linear Regression and Cost Functions](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_04.ipynb)
 
 I focused on Linear Regression in a more rigorous and practical method. I explored different ways to use Linear Regression along with a real dataset. I looked at the cost function and how the choice of function can improve or hurt results. 
 
