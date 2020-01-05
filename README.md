@@ -11,7 +11,7 @@ Recieved an overview of the architecture of the course as well as an introductio
 
 Became comfortable with using Python, Jupyter Notebooks, Pandas, and Numpy.
 
-Week 3 - Calculus and Linear Algebra's Roles in Machine Learning
+[Week 3 - Calculus and Linear Algebra's Roles in Machine Learning](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_03.ipynb)
 
 In this module I explored the role of Calculus in Machine Learning, namely in optimization to find the best fit model. Additionally, I looked at how all equations are expanded from single variable inputs to 'multivariable' through Linear Algebra. I explored how Linear Regression uses Calculus and finds the best fit model through optimization in both one-dimension along with multiple dimensions.
 
