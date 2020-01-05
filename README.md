@@ -31,7 +31,7 @@ Introduced to concept of classification. The Logistic Function emphasized.
 
 Exposed to techniques to help clean data. Allowed data to properly into an algorithm to generate the most effective model.
 
-Week 9 - Unsupervised Learning
+[Week 9 - Unsupervised Learning](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_09_Q_1.ipynb)
 
 Exposed to algorithms that do not require supervision.
 
