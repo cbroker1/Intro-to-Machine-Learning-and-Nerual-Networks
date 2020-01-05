@@ -7,7 +7,7 @@ Week 1 - Introduction to Machine Learning and Neural Networks (no corresponding 
 
 Recieved an overview of the architecture of the course as well as an introduction to machine learning and neural networks.
 
-Week 2 - Python + Pandas + Numpy Basics
+[Week 2 - Python + Pandas + Numpy Basics](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_02.ipynb)
 
 Became comfortable with using Python, Jupyter Notebooks, Pandas, and Numpy.
 
