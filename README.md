@@ -41,7 +41,7 @@ Exposed to algorithms that do not require supervision.
 
 In this module I covered working with Text Data and conversions such as TF-IDF and Word2Vec. These techniques allowed text data to be converted into (logical) numerical data, allowing the data to be modeled.
 
-Week 11 - Neural Networks: From Support Vector Machines to Logistic Regression
+[Week 11 - Neural Networks: From Support Vector Machines to Logistic Regression](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_11.ipynb)
 
 In this module I made the jump to neural networks. Introduced to the diagrams and graphs that represent these networks and some of the math behind them. Shown how adding additional layers or additional neurons can improve performance over a Support Vector Machine.
 
