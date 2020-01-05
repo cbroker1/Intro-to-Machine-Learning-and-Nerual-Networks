@@ -23,7 +23,7 @@ I focused on Linear Regression in a more rigorous and practical method. I explor
 
 Introduced to train/test/validate in the development of robust models.
 
-Week 6 - From Regression to Classification: Logistic Regression
+[Week 6 - From Regression to Classification: Logistic Regression](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_07.ipynb)
 
 Introduced to concept of classification. The Logistic Function emphasized.
 
