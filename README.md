@@ -37,7 +37,7 @@ Exposed to techniques to help clean data. Allowed data to properly into an algor
 
 Exposed to algorithms that do not require supervision.
 
-Week 10 - Natural Language Processing (NLP)
+[Week 10 - Natural Language Processing (NLP)](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_10.ipynb)
 
 In this module I covered working with Text Data and conversions such as TF-IDF and Word2Vec. These techniques allowed text data to be converted into (logical) numerical data, allowing the data to be modeled.
 
