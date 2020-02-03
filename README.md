@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning-and-Nerual-Networks
+# Machine-Learning-and-Nerual-Networks
 
 ## Semester-long graduate school class, taken at Johns Hopkins University - weekly assignment descriptions below (see \Assignments for physical assignments).
 
