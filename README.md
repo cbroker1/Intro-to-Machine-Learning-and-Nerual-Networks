@@ -1,6 +1,6 @@
 # Machine-Learning-and-Nerual-Networks
 
-## Semester-long graduate school class, taken at Johns Hopkins University - weekly assignment descriptions below (see \Assignments for physical assignments).
+## Semester-long graduate school class, taken at Johns Hopkins University - weekly assignment descriptions below.
 
 
 Week 1 - Introduction to Machine Learning and Neural Networks (no corresponding files)
