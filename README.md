@@ -33,7 +33,7 @@ Exposed to techniques to help clean data. Allowed data to properly into an algor
 
 [Week 9 - Unsupervised Learning Part 1](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_09_Q_1.ipynb)
 
-[Part 2](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_09_Q_2.ipynb)
+[Week 9 - Part 2](https://github.com/cbroker1/Intro-to-Machine-Learning-and-Nerual-Networks/blob/master/Assignments/Week_09_Q_2.ipynb)
 
 Exposed to algorithms that do not require supervision.
 
